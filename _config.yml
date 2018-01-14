@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+# Site settings
+title: Jobs Blog             # title of your website
+SEOTitle: Jobs Blog			# check out docs for more detail
+description: "Cool Blog"    # ...
+
+# SNS settings      
+github_username: RadiationXie     # modify this account to yours
+
+
+# Build settings
+# paginate: 10              # nums of posts in one page
